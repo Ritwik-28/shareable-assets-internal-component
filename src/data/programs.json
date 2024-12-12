@@ -1,0 +1,140 @@
+{
+  "programs": [
+    {
+      "id": "fsd",
+      "name": "FSD",
+      "displayName": "Full Stack Development",
+      "image": "https://directus.crio.do/assets/1e6bb25d-21d2-43e8-a7ae-c605cca1d240.webp",
+      "buttons": [
+        {
+          "id": "pff",
+          "label": "Profile Fitment Form",
+          "url": "https://rebrand.ly/crio-profile-fitment-form",
+          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://drive.google.com/file/d/1ToDkXfLSTd0P2hkuahaWmzPoZfStaDbD/view",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Fellowship Program in Full Stack Development (FSD)* here: https://drive.google.com/file/d/1ToDkXfLSTd0P2hkuahaWmzPoZfStaDbD/view.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio",
+          "url": "https://www.crio.do/learn/portfolio/full-stack/?name=Crio%20Demo",
+          "whatsappText": "Your journey at Crio does not end with just building projects. Simultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/qa-masters/?name={LEARNER_NAME_PLACEHOLDER}"
+        },
+        {
+          "id": "webinar",
+          "label": "On-Demand Session",
+          "url": "https://www.crio.do/magic/odt-sf-software-development",
+          "whatsappText": "We are pleased to offer you a chance to attend a exclusive trial session led by a Senior Software Development Engineer II at Microsoft. This session is designed for those aiming to excel as an SDE (Software Development Engineer).\n\nWhat's in Store for You:\n◉ Career Planning: Receive personalized career guidance from top industry experts.\n◉ Hands-on Project Work: Gain practical experience working on real-world scenarios from companies like Flipkart, Netflix, and Amazon.\n◉ Exclusive Access to Experts: Interact with seasoned professionals from top companies such as Microsoft, Uber, and Google.\n\nThis is a unique opportunity to jumpstart your career and learn from one of the best in the industry.\n\nJoin Now: https://www.crio.do/magic/odt-sf-software-development\n\nIf you have any questions, feel free to reach out to me.\n"
+        }
+      ]
+    },
+    {
+      "id": "qa",
+      "name": "QA Automation",
+      "displayName": "QA Automation",
+      "image": "https://directus.crio.do/assets/85fdff1c-8032-491c-9ab5-527ad59dd815.webp",
+      "buttons": [
+        {
+          "id": "pff",
+          "label": "Profile Fitment Form",
+          "url": "https://rebrand.ly/crio-profile-fitment-form",
+          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://drive.google.com/file/d/1LJTGe_mtrcQuOy0U3RB8QD3SUfPTUwWN/view",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Fellowship Program in QA Automation (SDET)* here: https://drive.google.com/file/d/1LJTGe_mtrcQuOy0U3RB8QD3SUfPTUwWN/view.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio",
+          "url": "https://www.crio.do/learn/portfolio/qa-masters/?name=Crio%20Demo",
+          "whatsappText": "Your journey at Crio does not end with just building projects. Simultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/qa-masters/?name={LEARNER_NAME_PLACEHOLDER}"
+        },
+        {
+          "id": "webinar",
+          "label": "On-Demand Session",
+          "url": "https://www.crio.do/magic/odt-sf-qa-automation",
+          "whatsappText": "You're invited to a exclusive trial session with a Technical Program Manager at Walmart with over 12 years of experience. \nThis session is tailored to help you launch a successful career as an SDET (Software Development Engineer in Test).\n\nWhat You'll Learn:\n◉ Personalized Career Guidance: Create your career plan with expert advice.\n◉ Hands-on Experience: Get practical experience working on projects for top companies like Flipkart, Netflix, and Amazon.\n◉ Industry Expert Interaction: Engage directly with professionals from leading tech firms such as Microsoft, Uber, and Google.\nSeize this chance to accelerate your career growth with direct mentorship and practical knowledge.\n\nJoin Now: https://www.crio.do/magic/odt-sf-qa-automation\n\nIf you have any questions, feel free to reach out to me.\n"
+        }
+      ]
+    },
+    {
+      "id": "system-design",
+      "name": "System Design",
+      "displayName": "System Design",
+      "image": "https://directus.crio.do/assets/c1f3a8a7-928a-4ba6-944c-f1bcb9ee7baf.webp",
+      "buttons": [
+        {
+          "id": "pff",
+          "label": "Profile Fitment Form",
+          "url": "https://rebrand.ly/crio-profile-fitment-form",
+          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://drive.google.com/file/d/1uklVJPrVnKrEQv_lOYyXAdYpd8HhErN6/view",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Fellowship Program in System Design* here: https://drive.google.com/file/d/1uklVJPrVnKrEQv_lOYyXAdYpd8HhErN6/view.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        }
+      ]
+    },
+    {
+      "id": "accelerate-sd",
+      "name": "Accelerate-SD",
+      "displayName": "Accelerate SD",
+      "image": "https://directus.crio.do/assets/38b760e9-e751-4c26-8751-54cc206f66a1.webp",
+      "buttons": [
+        {
+          "id": "pff",
+          "label": "Profile Fitment Form",
+          "url": "https://rebrand.ly/crio-profile-fitment-form",
+          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://drive.google.com/file/d/1VhqrNpmIgl-diyCAfyC-qpV6kASf8quQ/view",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Accelerate Program in Software Development* here: https://drive.google.com/file/d/1VhqrNpmIgl-diyCAfyC-qpV6kASf8quQ/view \nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        }
+      ]
+    },
+    {
+      "id": "data-analytics",
+      "name": "Data Analytics",
+      "displayName": "Data Analytics",
+      "image": "https://directus.crio.do/assets/e0eeb9d0-6292-4ce2-acdb-fa9f6d92735a.webp",
+      "buttons": [
+        {
+          "id": "pff",
+          "label": "Profile Fitment Form",
+          "url": "https://rebrand.ly/crio-profile-fitment-form",
+          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://www.crio.do/magic/da-brochure",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Fellowship Program in NextGen Data Analytics with AI here: https://www.crio.do/magic/da-brochure.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio",
+          "url": "https://www.crio.do/learn/portfolio/data-analytics/?name=Crio%20Beaver",
+          "whatsappText": "Your journey at Crio does not end with just analysing work-like data. \nSimultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/data-analytics/?name={LEARNER_NAME_PLACEHOLDER}"
+        },
+        {
+          "id": "webinar",
+          "label": "On-Demand Session",
+          "url": "https://www.crio.do/magic/odt-sf-ai-data-analytics",
+          "whatsappText": "We're excited to invite you to our free trial session led by Kiran Suresh, a founding team member of Crio.Do and former Motorola expert. In this hands-on session, you'll gain invaluable insights into building your career as a Data Analytics Professional.\n\nWhy Attend?\n◉ Personalized Career Plan: Get a customized roadmap to advance in the data analytics field.\n◉ Hands-on Experience: Work on projects similar to those at top companies like Flipkart, Netflix, and Amazon.\nDon't miss this opportunity to interact with industry experts and gain practical knowledge that can propel your career forward.\n\nJoin Now: https://www.crio.do/magic/odt-sf-ai-data-analytics\n\nIf you have any questions, feel free to reach out to me.\n"
+        }
+      ]
+    }
+  ]
+}
