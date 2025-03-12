@@ -19,10 +19,16 @@
           "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Fellowship Program in Full Stack Development (FSD)* here: https://drive.google.com/file/d/1YfxkSHKgM-XKs-waX9iiq0dLruvDfoRJ/view?usp=sharing.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
         },
         {
-          "id": "portfolio",
-          "label": "Portfolio",
-          "url": "https://www.crio.do/learn/portfolio/full-stack/?name=Crio%20Demo",
-          "whatsappText": "Your journey at Crio does not end with just building projects. Simultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/qa-masters/?name={LEARNER_NAME_PLACEHOLDER}"
+          "id": "portfolio-fs",
+          "label": "Portfolio FS",
+          "url": "https://www.crio.do/learn/portfolio/full-stack/?name=Crio%20Beaver",
+          "whatsappText": "Your journey at Crio does not end with just building projects. Simultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/full-stack/?name={LEARNER_NAME_PLACEHOLDER}"
+        },
+        {
+          "id": "portfolio-be",
+          "label": "Portfolio BE",
+          "url": "https://www.crio.do/learn/portfolio/backend/?name=Crio%20Beaver",
+          "whatsappText": "Your journey at Crio does not end with just building projects. Simultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/backend/?name={LEARNER_NAME_PLACEHOLDER}"
         },
         {
           "id": "webinar",
