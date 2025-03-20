@@ -15,6 +15,8 @@ const ButtonRow: React.FC<ButtonRowProps> = ({ button, programId, onSendWhatsApp
         href={button.url}
         className="submenu-button"
         id={`main-button-${programId}-${button.id}`}
+        target="_blank"  // This opens the link in a new tab
+        rel="noopener noreferrer"  // Recommended for security when using target="_blank"
       >
         {button.label}
       </a>
