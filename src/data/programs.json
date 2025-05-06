@@ -91,26 +91,6 @@
       ]
     },
     {
-      "id": "accelerate-sd",
-      "name": "Accelerate-SD",
-      "displayName": "Accelerate SD",
-      "image": "https://directus.crio.do/assets/38b760e9-e751-4c26-8751-54cc206f66a1.webp",
-      "buttons": [
-        {
-          "id": "pff",
-          "label": "Profile Fitment Form",
-          "url": "https://rebrand.ly/crio-profile-fitment-form",
-          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
-        },
-        {
-          "id": "brochure",
-          "label": "Brochure",
-          "url": "https://drive.google.com/file/d/1VhqrNpmIgl-diyCAfyC-qpV6kASf8quQ/view",
-          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Accelerate Program in Software Development* here: https://drive.google.com/file/d/1VhqrNpmIgl-diyCAfyC-qpV6kASf8quQ/view \nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
-        }
-      ]
-    },
-    {
       "id": "data-analytics",
       "name": "Data Analytics",
       "displayName": "Data Analytics",
