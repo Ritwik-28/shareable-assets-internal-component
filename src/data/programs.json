@@ -121,6 +121,34 @@
           "whatsappText": "We're excited to invite you to our free trial session led by Kiran Suresh, a founding team member of Crio.Do and former Motorola expert. In this hands-on session, you'll gain invaluable insights into building your career as a Data Analytics Professional.\n\nWhy Attend?\n◉ Personalized Career Plan: Get a customized roadmap to advance in the data analytics field.\n◉ Hands-on Experience: Work on projects similar to those at top companies like Flipkart, Netflix, and Amazon.\nDon't miss this opportunity to interact with industry experts and gain practical knowledge that can propel your career forward.\n\nJoin Now: https://www.crio.do/magic/odt-sf-ai-data-analytics\n\nIf you have any questions, feel free to reach out to me.\n"
         }
       ]
+    },
+    {
+      "id": "SkillQ-fullstack",
+      "name": "SkillQ Fullstack",
+      "displayName": "SillQ Fullstack",
+      "image": "https://directus.crio.do/assets/4327001b-bc1e-47dd-903d-9704df09cc2b.png",
+      "buttons": [
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://drive.google.com/file/d/1lGcjYHUyrN7HJE7JcdVVjo2QWrZMmykc/view?usp=sharing",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Crio SkillQ GenAI Powered Fullstack Program* here: https://drive.google.com/file/d/1lGcjYHUyrN7HJE7JcdVVjo2QWrZMmykc/view?usp=sharing.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        }
+      ]
+    },
+    {
+      "id": "SkillQ-data-analytics",
+      "name": "SkillQ Data Analytics",
+      "displayName": "SkillQ Data Analytics",
+      "image": "https://directus.crio.do/assets/db57cfbb-d41f-464f-8b40-7633be2fc55b.png",
+      "buttons": [
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://drive.google.com/file/d/1FK6q9dD0wd-kXdiyqRk-AxJEtGwaOYf4/view?usp=sharing",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Crio SkillQ GenAI Powered Data Analytics Program* here: https://drive.google.com/file/d/1FK6q9dD0wd-kXdiyqRk-AxJEtGwaOYf4/view?usp=sharing.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        }
+      ]
     }
   ]
 }
