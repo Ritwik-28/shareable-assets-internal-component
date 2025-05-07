@@ -133,6 +133,12 @@
           "label": "Brochure",
           "url": "https://drive.google.com/file/d/1lGcjYHUyrN7HJE7JcdVVjo2QWrZMmykc/view?usp=sharing",
           "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Crio SkillQ GenAI Powered Fullstack Program* here: https://drive.google.com/file/d/1lGcjYHUyrN7HJE7JcdVVjo2QWrZMmykc/view?usp=sharing.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio",
+          "url": "https://www.crio.do/learn/portfolio/skillq-full-stack/?name=Crio%20Beaver",
+          "whatsappText": "Your journey at Crio does not end with just analysing work-like data. \nSimultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/skillq-full-stack/?name={LEARNER_NAME_PLACEHOLDER}"
         }
       ]
     },
@@ -147,6 +153,12 @@
           "label": "Brochure",
           "url": "https://drive.google.com/file/d/1FK6q9dD0wd-kXdiyqRk-AxJEtGwaOYf4/view?usp=sharing",
           "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Crio SkillQ GenAI Powered Data Analytics Program* here: https://drive.google.com/file/d/1FK6q9dD0wd-kXdiyqRk-AxJEtGwaOYf4/view?usp=sharing.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        },
+        {
+          "id": "portfolio",
+          "label": "Portfolio",
+          "url": "https://www.crio.do/learn/portfolio/data-analytics/?name=Crio%20Beaver",
+          "whatsappText": "Your journey at Crio does not end with just analysing work-like data. \nSimultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/data-analytics/?name={LEARNER_NAME_PLACEHOLDER}"
         }
       ]
     }
