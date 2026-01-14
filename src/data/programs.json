@@ -146,12 +146,12 @@
       "id": "SkillQ-data-analytics",
       "name": "SkillQ Data Analytics",
       "displayName": "SkillQ Data Analytics",
-      "image": "https://directus.crio.do/assets/db57cfbb-d41f-464f-8b40-7633be2fc55b.png",
+      "image": "https://ik.imagekit.io/96dabcn5i/ChatGPT%20Image%20Jan%2012,%202026,%2011_08_44%20PM.png",
       "buttons": [
         {
           "id": "brochure",
           "label": "Brochure",
-          "url": "https://drive.google.com/file/d/1FK6q9dD0wd-kXdiyqRk-AxJEtGwaOYf4/view?usp=sharing",
+          "url": "https://ik.imagekit.io/96dabcn5i/ChatGPT%20Image%20Jan%2012,%202026,%2011_08_44%20PM.png",
           "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Crio SkillQ GenAI Powered Data Analytics Program* here: https://drive.google.com/file/d/1FK6q9dD0wd-kXdiyqRk-AxJEtGwaOYf4/view?usp=sharing.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
         },
         {
