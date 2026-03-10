@@ -71,26 +71,6 @@
       ]
     },
     {
-      "id": "system-design",
-      "name": "System Design",
-      "displayName": "System Design",
-      "image": "https://directus.crio.do/assets/c1f3a8a7-928a-4ba6-944c-f1bcb9ee7baf.webp",
-      "buttons": [
-        {
-          "id": "pff",
-          "label": "Profile Fitment Form",
-          "url": "https://rebrand.ly/crio-profile-fitment-form",
-          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
-        },
-        {
-          "id": "brochure",
-          "label": "Brochure",
-          "url": "https://drive.google.com/file/d/1uklVJPrVnKrEQv_lOYyXAdYpd8HhErN6/view",
-          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Fellowship Program in System Design* here: https://drive.google.com/file/d/1uklVJPrVnKrEQv_lOYyXAdYpd8HhErN6/view.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
-        }
-      ]
-    },
-    {
       "id": "data-analytics",
       "name": "Data Analytics",
       "displayName": "Data Analytics",
@@ -123,9 +103,29 @@
       ]
     },
     {
+      "id": "system-design",
+      "name": "System Design",
+      "displayName": "System Design",
+      "image": "https://directus.crio.do/assets/c1f3a8a7-928a-4ba6-944c-f1bcb9ee7baf.webp",
+      "buttons": [
+        {
+          "id": "pff",
+          "label": "Profile Fitment Form",
+          "url": "https://rebrand.ly/crio-profile-fitment-form",
+          "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+        {
+          "id": "brochure",
+          "label": "Brochure",
+          "url": "https://drive.google.com/file/d/1uklVJPrVnKrEQv_lOYyXAdYpd8HhErN6/view",
+          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Fellowship Program in System Design* here: https://drive.google.com/file/d/1uklVJPrVnKrEQv_lOYyXAdYpd8HhErN6/view.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
+        }
+      ]
+    },
+    {
       "id": "SkillQ-fullstack",
       "name": "SkillQ Fullstack",
-      "displayName": "SillQ Fullstack",
+      "displayName": "SkillQ Fullstack",
       "image": "https://directus.crio.do/assets/4327001b-bc1e-47dd-903d-9704df09cc2b.png",
       "buttons": [
         {
@@ -141,26 +141,7 @@
           "whatsappText": "Your journey at Crio does not end with just analysing work-like data. \nSimultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/skillq-full-stack/?name={LEARNER_NAME_PLACEHOLDER}"
         }
       ]
-    },
-    {
-      "id": "SkillQ-data-analytics",
-      "name": "SkillQ Data Analytics",
-      "displayName": "SkillQ Data Analytics",
-      "image": "https://ik.imagekit.io/96dabcn5i/ChatGPT%20Image%20Jan%2012,%202026,%2011_08_44%20PM.png",
-      "buttons": [
-        {
-          "id": "brochure",
-          "label": "Brochure",
-          "url": "https://ik.imagekit.io/96dabcn5i/ChatGPT%20Image%20Jan%2012,%202026,%2011_08_44%20PM.png",
-          "whatsappText": "Following up on our conversation, I wanted to share a little more detail about the program we discussed.\nYou can check out the curriculum of the *Crio SkillQ GenAI Powered Data Analytics Program* here: https://drive.google.com/file/d/1FK6q9dD0wd-kXdiyqRk-AxJEtGwaOYf4/view?usp=sharing.\nThis will give you a detailed understanding of all the concepts you will master throughout your learning journey at Crio.\nIf you have any questions on this, feel free to reach out to me."
-        },
-        {
-          "id": "portfolio",
-          "label": "Portfolio",
-          "url": "https://www.crio.do/learn/portfolio/data-analytics/?name=Crio%20Beaver",
-          "whatsappText": "Your journey at Crio does not end with just analysing work-like data. \nSimultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/data-analytics/?name={LEARNER_NAME_PLACEHOLDER}"
-        }
-      ]
     }
   ]
 }
+    
