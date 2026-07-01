@@ -31,6 +31,12 @@
           "whatsappText": "Your journey at Crio does not end with just building projects. Simultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/backend/?name={LEARNER_NAME_PLACEHOLDER}"
         },
         {
+          "id": "CV",
+          "label": "CV",
+          "url": "",
+          "whatsappText": "{}"
+        },
+        {
           "id": "webinar",
           "label": "On-Demand Session",
           "url": "https://www.crio.do/magic/odt-sf-software-development",
@@ -61,6 +67,12 @@
           "label": "Portfolio",
           "url": "https://www.crio.do/learn/portfolio/qa-masters/?name=Crio%20Demo",
           "whatsappText": "Your journey at Crio does not end with just building projects. Simultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/qa-masters/?name={LEARNER_NAME_PLACEHOLDER}"
+        },
+        {
+          "id": "CV",
+          "label": "CV",
+          "url": "",
+          "whatsappText": "{}"
         },
         {
           "id": "webinar",
@@ -95,6 +107,12 @@
           "whatsappText": "Your journey at Crio does not end with just analysing work-like data. \nSimultaneously you will be building a rockstar portfolio to impress recruiters and land your dream job.\nHere's how your portfolio will look like soon: https://www.crio.do/learn/portfolio/data-analytics/?name={LEARNER_NAME_PLACEHOLDER}"
         },
         {
+          "id": "CV",
+          "label": "CV",
+          "url": "",
+          "whatsappText": "{}"
+        },
+        {
           "id": "webinar",
           "label": "On-Demand Session",
           "url": "https://www.crio.do/magic/odt-sf-ai-data-analytics",
@@ -113,6 +131,12 @@
           "label": "Profile Fitment Form",
           "url": "https://www.crio.do/magic/profile-fitment-survey",
           "whatsappText": "It was a pleasure speaking with you earlier today. Here is the Profile Fitment form. Please ensure you fill it at your earliest convenience, so that we can better understand how to serve you better.\nLink: https://rebrand.ly/crio-profile-fitment-form\nShould you have any questions or require further assistance, please don't hesitate to reach out to me."
+        },
+        {
+          "id": "CV",
+          "label": "CV",
+          "url": "",
+          "whatsappText": "{}"
         },
         {
           "id": "brochure",
